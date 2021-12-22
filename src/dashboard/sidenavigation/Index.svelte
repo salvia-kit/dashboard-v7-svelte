@@ -7,12 +7,12 @@
 	const style = {
 		mobilePosition: {
 			left: 'left-0',
-			right: 'right-0',
+			right: 'right-0'
 		},
 		close: `hidden`,
 		container: `pb-32 lg:pb-6`,
 		open: `w-8/12 absolute z-40 sm:w-5/12`,
-		default: `bg-[#0e141b] h-screen overflow-y-auto top-0 lg:block lg:relative lg:w-64 lg:z-auto`,
+		default: `bg-[#0e141b] h-screen overflow-y-auto top-0 lg:block lg:relative lg:w-64 lg:z-auto`
 	};
 
 	const closeSidenav = () => {

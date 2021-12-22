@@ -6,4 +6,4 @@
 	<title>Home</title>
 </svelte:head>
 
-<Content title='Users'/>
+<Content title="Users" />
