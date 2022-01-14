@@ -66,13 +66,13 @@
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
 									<div class="flex items-center">
 										<div class="flex-shrink-0">
-											<a href="#" class="block relative">
+											<span class="block relative">
 												<img
 													alt="profil"
 													src="/images/2.jpg"
 													class="mx-auto object-cover rounded-full h-10 w-10 "
 												/>
-											</a>
+											</span>
 										</div>
 										<div class="ml-3">
 											<p class="text-gray-900 whitespace-no-wrap">Jean marc</p>
@@ -97,20 +97,20 @@
 									</span>
 								</td>
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-									<a href="#" class="text-indigo-600 hover:text-indigo-900"> Edit </a>
+									<span class="text-indigo-600 hover:text-indigo-900"> Edit </span>
 								</td>
 							</tr>
 							<tr>
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
 									<div class="flex items-center">
 										<div class="flex-shrink-0">
-											<a href="#" class="block relative">
+											<span class="block relative">
 												<img
 													alt="profil"
 													src="/images/3.jpg"
 													class="mx-auto object-cover rounded-full h-10 w-10 "
 												/>
-											</a>
+											</span>
 										</div>
 										<div class="ml-3">
 											<p class="text-gray-900 whitespace-no-wrap">Marcus coco</p>
@@ -135,20 +135,20 @@
 									</span>
 								</td>
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-									<a href="#" class="text-indigo-600 hover:text-indigo-900"> Edit </a>
+									<span class="text-indigo-600 hover:text-indigo-900"> Edit </span>
 								</td>
 							</tr>
 							<tr>
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
 									<div class="flex items-center">
 										<div class="flex-shrink-0">
-											<a href="#" class="block relative">
+											<span class="block relative">
 												<img
 													alt="profil"
 													src="/images/4.jpg"
 													class="mx-auto object-cover rounded-full h-10 w-10 "
 												/>
-											</a>
+											</span>
 										</div>
 										<div class="ml-3">
 											<p class="text-gray-900 whitespace-no-wrap">Ecric marc</p>
@@ -173,20 +173,20 @@
 									</span>
 								</td>
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-									<a href="#" class="text-indigo-600 hover:text-indigo-900"> Edit </a>
+									<span class="text-indigo-600 hover:text-indigo-900"> Edit </span>
 								</td>
 							</tr>
 							<tr>
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
 									<div class="flex items-center">
 										<div class="flex-shrink-0">
-											<a href="#" class="block relative">
+											<span class="block relative">
 												<img
 													alt="profil"
 													src="/images/5.jpg"
 													class="mx-auto object-cover rounded-full h-10 w-10 "
 												/>
-											</a>
+											</span>
 										</div>
 										<div class="ml-3">
 											<p class="text-gray-900 whitespace-no-wrap">Julien Huger</p>
@@ -211,7 +211,7 @@
 									</span>
 								</td>
 								<td class="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-									<a href="#" class="text-indigo-600 hover:text-indigo-900"> Edit </a>
+									<span class="text-indigo-600 hover:text-indigo-900"> Edit </span>
 								</td>
 							</tr>
 						</tbody>

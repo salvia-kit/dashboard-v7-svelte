@@ -59,9 +59,9 @@
 				</div>
 			</div>
 			<div class="flex items-center justify-end ml-5 p-1 relative w-1/4 sm:mr-0 sm:right-auto">
-				<a href="#" class="block relative">
+				<span class="block relative">
 					<img alt="CR7" src="/images/1.png" class="h-10 mx-auto object-cover rounded-full w-10 " />
-				</a>
+				</span>
 			</div>
 		</div>
 	</div>
