@@ -15,7 +15,7 @@
 						type="button"
 						aria-expanded="false"
 						aria-label="Toggle sidenav"
-						onClick={toggle}
+						on:click={toggle}
 						class="text-4xl text-white focus:outline-none lg:hidden"
 					>
 						&#8801;
